@@ -83,4 +83,4 @@ Enter symbol for Bob: O
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by [Yashika](https://github.com/Yashika)
+Made with ❤️ by Yashika
